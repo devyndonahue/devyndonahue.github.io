@@ -228,7 +228,6 @@ body{
 				min-height:500px;
 				max-height:1080px;
 				background-image: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(images/img_2512.jpg);
-				/*background:url(images/img_2512.jpg);*/
 				background-size:cover;
 				padding:15px;
 				overflow:hidden
