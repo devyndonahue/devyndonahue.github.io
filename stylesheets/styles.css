@@ -507,6 +507,7 @@ body{
 				font-size:1.5em;
 				font-weight:300;
 				color:#374054;
+				text-decoration: underline;
 				margin:0 0 15px 0
 				}
 			.project-info p{
